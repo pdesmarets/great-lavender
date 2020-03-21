@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: pdesmarets/great-lavender # Path to your GitHub repository
   branch: master
 media_folder: static/images
 public_folder: /images
