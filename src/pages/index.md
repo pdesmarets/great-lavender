@@ -1,7 +1,7 @@
 ---
 title: Home
 banner:
-  title: Spectral
+  title: Spectral Hackolade
   subtitle: |-
     Blandit duis accumsan  
     arcu sagittis viverra  
@@ -13,7 +13,7 @@ banner:
       is_primary: true
   bottom_link:
     label: Learn More
-    url: '#one'
+    url: "#one"
     has_arrow: true
     is_scrolly: true
 sections:
@@ -25,8 +25,7 @@ sections:
       Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
       eleifend  
 
-      fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus
-      ullamcorper.  
+      fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.  
     section_id: one
     background_style: style1
     feature_icons:
@@ -48,23 +47,20 @@ sections:
       - title: |-
           Magna primis lobortis
           sed ullamcorper
-        text: >-
-          Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-          imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+        text: Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet.
+          Mauris eleifend fringilla nullam aenean mi ligula.
         home_img_path: images/pic01.jpg
       - title: |-
           Tortor dolore feugiat
           elementum magna
-        text: >-
-          Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-          imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+        text: Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet.
+          Mauris eleifend fringilla nullam aenean mi ligula.
         home_img_path: images/pic02.jpg
       - title: |-
           Augue eleifend aliquet
           sed condimentum
-        text: >-
-          Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-          imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+        text: Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet.
+          Mauris eleifend fringilla nullam aenean mi ligula.
         home_img_path: images/pic03.jpg
     component: Spotlights
   - type: features
@@ -78,40 +74,33 @@ sections:
     background_style: style3
     features:
       - title: Arcu accumsan
-        text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
+        text: Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt
+          nullam amet leo Aenean ligula consequat consequat.
         icon: fa-paper-plane-o
       - title: Ac Augue Eget
-        text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
+        text: Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt
+          nullam amet leo Aenean ligula consequat consequat.
         icon: fa-laptop
       - title: Mus Scelerisque
-        text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
+        text: Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt
+          nullam amet leo Aenean ligula consequat consequat.
         icon: fa-code
       - title: Mauris Imperdiet
-        text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
+        text: Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt
+          nullam amet leo Aenean ligula consequat consequat.
         icon: fa-headphones
       - title: Aenean Primis
-        text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
+        text: Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt
+          nullam amet leo Aenean ligula consequat consequat.
         icon: fa-heart-o
       - title: Tortor Ut
-        text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
+        text: Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt
+          nullam amet leo Aenean ligula consequat consequat.
         icon: fa-flag-o
     component: Features
   - type: cta
     title: Arcue ut vel commodo
-    text: >-
-      Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet
+    text: Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet
       eleifend fringilla.
     section_id: cta
     background_style: style4
