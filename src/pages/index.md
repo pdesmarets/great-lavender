@@ -1,7 +1,7 @@
 ---
 title: Home
 banner:
-  title: Spectral Hackolade
+  title: Spectral
   subtitle: |-
     Blandit duis accumsan  
     arcu sagittis viverra  
